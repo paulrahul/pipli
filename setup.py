@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="pipli",
-    version="1.0.2",
+    version="1.0.3",
     packages=find_packages(),
     install_requires=[],
     entry_points={

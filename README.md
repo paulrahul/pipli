@@ -13,6 +13,12 @@ runs the given command when all required packages have been installed.
 pipli  '<cmd>'
 ```
 
+:warning: It's recommended to use a vitual environment to keep your package
+installations contained and isolated.
+```bash
+python -m venv .myenv
+```
+
 ## Installation
 
 ```bash
